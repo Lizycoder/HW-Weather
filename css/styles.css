@@ -1,0 +1,123 @@
+* {
+	transition: all .1s ease-in;
+	font-family:  “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+	color: #FFF;
+	box-sizing: border-box;
+ }
+ header {
+ 	margin: auto;
+ 	text-align: left;
+ 	padding: 15px 15%;
+ }
+header h1 {
+ 	margin: 0px;
+ 	font-size: 16px;
+ 	font-weight: 700;
+
+ }
+ html {
+height: 100%;
+ }
+body {
+	border: 10px #2B81AC solid;
+	background:#3399CC;
+	margin: 0px;
+	background-size: 100%;
+	min-height: 100%;
+}
+span, .wi {
+	color: rgba(255,255,255,.5);
+}
+.wi-sunrise {
+	color: #FFF;
+}
+
+
+ul {
+	font-size: 0px;
+	margin: auto;
+	width: 70%;
+	height: 100%;
+	border: 2px #FFF solid;
+	padding: 0px;
+	background-color: #FFF;
+	}
+ul li {
+	list-style: none;
+	display: inline-block;
+	border: 2px #FFF solid;
+	font-size: 15px;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 1.6;
+}
+ul li a {
+	padding: 15px;
+	text-decoration: none;
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+ul:hover li:not(:hover) {
+	opacity: 0.5;
+}
+.half {
+width: 50%;
+margin: 0px;
+}
+.quater {
+	width: 25%;
+	margin: 0px;
+}
+.blue
+{
+	background-color: #3399CC;
+}
+.marine
+{
+	background-color: #33CCCC;
+}
+.lily
+{
+	background-color: #996699;
+}
+.red
+{
+	background-color: #C24747;
+}
+.orange
+{
+	background-color: #E2674A;
+}
+.yellow
+{
+	background-color: #FFCC66;
+}
+.mint
+{
+	background-color: #99CC99;
+}
+.tiffany
+{
+	background-color: #669999;
+}
+.pink
+{
+	background-color: #CC6699;
+}
+.grass
+{
+	background-color: #339966;
+}
+.violet
+{
+	background-color: #666699;
+}
+p {
+	font-size: 12px;
+	padding: 0 15%;
+}
+
+
